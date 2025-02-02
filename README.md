@@ -1,2 +1,2 @@
 # ollamaRAG
-Implemet RAG using Ollama and OpensSource chat model like Deepseek
+Implement RAG using Ollama and OpensSource chat models like Deepseek-R1:14b 
